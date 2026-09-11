@@ -1,4 +1,4 @@
-# Dedo — a WhatsApp-style chat app
+# chat app
 
 Full-stack real-time messaging app: 1-on-1 & group chat, media sharing, online/last-seen,
 delivered/read ticks, typing indicators, status/stories (24h expiry), and voice/video calls (WebRTC).
