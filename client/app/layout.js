@@ -3,7 +3,7 @@ import { AuthProvider } from "@/context/AuthContext";
 import { SocketProvider } from "@/context/SocketContext";
 
 export const metadata = {
-  title: "Dedo",
+  title: "Chat-app",
   description: "Real-time chat, calls and status - built with Next.js",
 };
 
