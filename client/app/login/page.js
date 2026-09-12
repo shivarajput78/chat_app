@@ -31,7 +31,7 @@ export default function LoginPage() {
       <form onSubmit={handleSubmit} className="w-full max-w-sm bg-panelLight rounded-2xl p-8 shadow-xl">
         <div className="flex items-center gap-2 mb-6">
           <div className="w-10 h-10 rounded-full bg-accent flex items-center justify-center font-bold text-panel">D</div>
-          <h1 className="text-xl font-semibold text-white">Dedo</h1>
+          <h1 className="text-xl font-semibold text-white">chat-app</h1>
         </div>
         <p className="text-muted text-sm mb-6">Log in to keep chatting.</p>
 
